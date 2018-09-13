@@ -1,0 +1,9 @@
+Run Application
+To run the application, follow below steps. 
+1. Create database using MySQL. 
+2. Download source code from git. 
+3. Go to the project root directory through command prompt. 
+4 if you are using maven Run the maven command as mvn clean install
+ (gradle clean build for Gradle) 
+5. Deploy war file in tomcat. 
+6. Access the URL http://localhost:8089/SpringRestAngJSDemo/ 
